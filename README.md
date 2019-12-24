@@ -1,2 +1,2 @@
 # TConverter
-Convert from celsius to ahrenheit, from 0 ºC  to 100 ºC
+Convert celsius to ahrenheit, from 0 ºC  to 100 ºC
